@@ -2,20 +2,39 @@
 
 Currently I'm using python 🐍 and ➡️C++ to analyse experiments that help us understand the nuclear reactions in stars that produce the elements we see in our Universe! 🌟🔭
 
-Read our paper on how we used [transfer reactions to understand how radioactive elements in our Galaxy are produced here.](https://link.springer.com/article/10.1140/epja/s10050-020-00052-9) 📜
+📜 Read our paper on how we used [transfer reactions to understand how radioactive elements in our Galaxy are produced here.](https://link.springer.com/article/10.1140/epja/s10050-020-00052-9)
 
-I'm also interested in using data science and machine learning algorithms to understand and solve real world issues! 📈
+📈 I'm also interested in using data science and machine learning algorithms to understand and solve real world issues!
 
-[Read my article on how I used web scraping and linear regression to investigate how COVID-19 disproportionately affects different communities in London.](https://medium.com/swlh/all-in-this-together-trends-in-covid-19-fatality-across-london-boroughs-from-machine-learning-e481c99d5cf0) 😷
+😷 [Read my article on how I used web scraping and linear regression to investigate how COVID-19 disproportionately affects different communities in London.](https://medium.com/swlh/all-in-this-together-trends-in-covid-19-fatality-across-london-boroughs-from-machine-learning-e481c99d5cf0) 
 
-Currently I'm working on a project that uses several algorithms to solve a classification problem, including logistic regression, random forests and support-vector machines. 📊
+📊 Currently I'm working on a project that uses several algorithms to solve a classification problem, including logistic regression, random forests and support-vector machines. 
 
-I'm currently looking for a role in data science, where I can use programming and machine learning to get involved in a fast-paced team that's making a difference in the world. 👨‍🔬
+👨‍🔬 I'm currently looking for a role in data science, where I can use programming and machine learning to get involved in a fast-paced team that's making a difference in the world. 
 
-You can contact me through my [LinkedIn](https://www.linkedin.com/in/conor-hamill-53961419a/) ⛓️ or email me directly: conorhamill36@hotmail.com. 📧
+Contact me through my [LinkedIn](https://www.linkedin.com/in/conor-hamill-53961419a/) ⛓️ or email me directly: conorhamill36@hotmail.com. 📧
 
-Some data science podcasts I'm a fan of: [TowardsDataScience](https://towardsdatascience.com/podcast/home) and [DataFramed](https://www.datacamp.com/community/podcast). 🎧
+🎧 Some data science podcasts I'm a fan of: [TowardsDataScience](https://towardsdatascience.com/podcast/home) and [DataFramed](https://www.datacamp.com/community/podcast). 
 
+# ⌨️ Programming Languages:
+- Python
+  -NumPy
+  -Pandas
+  -scikit-learn
+  -Matplotlib
+  -Selenium
+  -BeautifulSoup
+-C++
+-C
+-SQL
+-MATLAB
+
+# 💻 Other skills
+-Linux
+-bash
+-AWS
+-LaTeX
+  
 
 <!--
 **conorhamill36/conorhamill36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

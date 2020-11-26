@@ -12,9 +12,9 @@ Currently I'm working on a project that uses several algorithms to solve a class
 
 I'm currently looking for a role in data science, where I can use programming and machine learning to get involved in a fast-paced team that's making a difference in the world. 👨‍🔬
 
-You can contact me through my LinkedIn: https://www.linkedin.com/in/conor-hamill-53961419a/ ⛓️ or email me directly: conorhamill36@hotmail.com. 📧
+You can contact me through my [LinkedIn](https://www.linkedin.com/in/conor-hamill-53961419a/) ⛓️ or email me directly: conorhamill36@hotmail.com. 📧
 
-Some data science podcasts I'm a fan of: TowardsDataScience https://towardsdatascience.com/podcast/home and DataFramed https://www.datacamp.com/community/podcast. 🎧
+Some data science podcasts I'm a fan of: [TowardsDataScience](https://towardsdatascience.com/podcast/home) and [DataFramed](https://www.datacamp.com/community/podcast). 🎧
 
 
 <!--

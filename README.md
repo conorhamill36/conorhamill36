@@ -2,7 +2,7 @@
 
 Currently I'm using python 🐍 and ➡️C++ to analyse experiments that help us understand the nuclear reactions in stars that produce the elements we see in our Universe! 🌟🔭
 
-Read our paper on how we used transfer reactions to udnerstand how radioactive elements in our Galaxy are produced here: https://link.springer.com/article/10.1140/epja/s10050-020-00052-9 📜
+Read our paper on how we used transfer reactions to understand how radioactive elements in our Galaxy are produced here: https://link.springer.com/article/10.1140/epja/s10050-020-00052-9 📜
 
 I'm also interested in using data science and machine learning algorithms to understand and solve real world issues! 📈
 
@@ -14,7 +14,7 @@ I'm currently looking for a role in data science, where I can use programming an
 
 You can contact me through my LinkedIn: https://www.linkedin.com/in/conor-hamill-53961419a/ ⛓️ or email me directly: conorhamill36@hotmail.com. 📧
 
-Some data science podcasts I'm a fan of: TowardsDataScience and DataFramed. 🎧
+Some data science podcasts I'm a fan of: TowardsDataScience https://towardsdatascience.com/podcast/home and DataFramed https://www.datacamp.com/community/podcast. 🎧
 
 
 <!--

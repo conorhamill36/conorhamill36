@@ -1,4 +1,4 @@
-## Hi, I'm Conor, a physics PhD student at the University of Edinburgh! 👋
+## I'm Conor, a physics PhD student at the University of Edinburgh! 👋
 
 Currently I'm using python 🐍 and ➡️C++ to analyse experiments that help us understand the nuclear reactions in stars that produce the elements we see in our Universe! 🌟🔭
 
@@ -16,7 +16,7 @@ Contact me through my [LinkedIn](https://www.linkedin.com/in/conor-hamill-539614
 
 🎧 Some data science podcasts I'm a fan of: [TowardsDataScience](https://towardsdatascience.com/podcast/home) and [DataFramed](https://www.datacamp.com/community/podcast). 
 
-# ⌨️ Programming Languages:
+### ⌨️ Programming Languages:
 - Python
   - NumPy
   - Pandas
@@ -29,7 +29,7 @@ Contact me through my [LinkedIn](https://www.linkedin.com/in/conor-hamill-539614
 - SQL
 - MATLAB
 
-# 💻 Other skills
+### 💻 Other skills
 - Linux
 - bash
 - AWS

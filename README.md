@@ -18,22 +18,22 @@ Contact me through my [LinkedIn](https://www.linkedin.com/in/conor-hamill-539614
 
 # ⌨️ Programming Languages:
 - Python
-  -NumPy
-  -Pandas
-  -scikit-learn
-  -Matplotlib
-  -Selenium
-  -BeautifulSoup
--C++
--C
--SQL
--MATLAB
+  - NumPy
+  - Pandas
+  - scikit-learn
+  - Matplotlib
+  - Selenium
+  - BeautifulSoup
+- C++
+- C
+- SQL
+- MATLAB
 
 # 💻 Other skills
--Linux
--bash
--AWS
--LaTeX
+- Linux
+- bash
+- AWS
+- LaTeX
   
 
 <!--

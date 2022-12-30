@@ -1,26 +1,25 @@
-## I'm Conor, a physics PhD student at the University of Edinburgh! 👋
+## I'm Conor, a data scientist working in financial services, based in Edinburgh, Scotland! 👋
 
-Currently I'm using python 🐍 and ➡️C++ to analyse experiments that help us understand the nuclear reactions in stars that produce the elements we see in our Universe! 🌟🔭
+👨‍🔬 As a data scientist I use data and machine learning to develop models and explore new techniques to improve the lives of our customers.
 
-📜 Read our paper on how we used [transfer reactions to understand how radioactive elements in our Galaxy are produced here.](https://link.springer.com/article/10.1140/epja/s10050-020-00052-9)
+📜 Read our paper surveying the [different techniques available for machine unlearning](https://arxiv.org/abs/2209.00939), i.e. removing the influence of data points from a trained model. 
 
-📈 I'm also interested in using data science and machine learning algorithms to understand and solve real world issues!
+👨‍🎓 During my PhD I used python 🐍 and C++➡️ to analyse experiments that help us understand the nuclear reactions in stars that produce the elements we see in our Universe! 🌟🔭
 
-😷 [Read my article on how I used web scraping and linear regression to investigate how COVID-19 disproportionately affects different communities in London.](https://medium.com/swlh/all-in-this-together-trends-in-covid-19-fatality-across-london-boroughs-from-machine-learning-e481c99d5cf0) 
+📜 Read my paper on how we used [transfer reactions to understand how radioactive elements in our Galaxy are produced here.](https://link.springer.com/article/10.1140/epja/s10050-020-00052-9)
 
-📊 Currently I'm working on a project that uses several algorithms to solve a classification problem, including logistic regression, random forests and support-vector machines. 
-
-👨‍🔬 I'm currently looking for a role in data science, where I can use programming and machine learning to get involved in a fast-paced team that's making a difference in the world. 
+📖 Also feel free to download and read my thesis describing the [two experiments that comprised my PhD](https://era.ed.ac.uk/handle/1842/38582).
 
 Contact me through my [LinkedIn](https://www.linkedin.com/in/conor-hamill-53961419a/) ⛓️ or email me directly: conorhamill36@hotmail.com. 📧
 
-🎧 Some data science podcasts I'm a fan of: [TowardsDataScience](https://towardsdatascience.com/podcast/home) and [DataFramed](https://www.datacamp.com/community/podcast). 
+🎧 Some data science podcasts I'm a fan of: [TowardsDataScience](https://towardsdatascience.com/podcast/home), [DataFramed](https://www.datacamp.com/community/podcast), and [AI Right](https://shows.acast.com/ai-right). 
 
 ### ⌨️ Programming Languages:
 - Python
   - NumPy
   - Pandas
   - scikit-learn
+  - pytorch
   - Matplotlib
   - Selenium
   - BeautifulSoup
@@ -32,9 +31,9 @@ Contact me through my [LinkedIn](https://www.linkedin.com/in/conor-hamill-539614
 ### 💻 Other skills
 - Linux
 - bash
+- Git
 - AWS
 - LaTeX
-  
 
 <!--
 **conorhamill36/conorhamill36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

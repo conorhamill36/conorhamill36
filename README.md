@@ -2,7 +2,9 @@
 
 👨‍🔬 As a data scientist I use data and machine learning to develop models and explore new techniques to improve the lives of our customers.
 
-📜 Read our paper surveying the [different techniques available for machine unlearning](https://arxiv.org/abs/2209.00939), i.e. removing the influence of data points from a trained model. 
+📜 Read our papers that:
+  - used [agent-based modelling to optimise credit card promotion pricing strategies](https://arxiv.org/abs/2311.01901v)
+  - surveyed the [different techniques available for machine unlearning](https://arxiv.org/abs/2209.00939), i.e. removing the influence of data points from a trained model 
 
 👨‍🎓 During my PhD I used python 🐍 and C++➡️ to analyse experiments that help us understand the nuclear reactions in stars that produce the elements we see in our Universe! 🌟🔭
 

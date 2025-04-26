@@ -1,5 +1,7 @@
 ## I'm Conor, a data scientist working in financial services, based in Edinburgh, Scotland! 👋
 
+Check out some things about me below or visit [my personal website](https://conorhamill36.github.io/)!
+
 👨‍🔬 As a data scientist I use data and machine learning to develop models and explore new techniques to improve the lives of our customers.
 
 📜 Read our papers that:
